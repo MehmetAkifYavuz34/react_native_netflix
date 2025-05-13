@@ -1,3 +1,10 @@
 export const GETSTARTED = 'GetStarted';
 export const SIGNIN = 'SingIn';
 export const WATCHLIST = 'Watch List';
+export const ADDNEWLIST = 'Add New List';
+export const TAB = 'Tab';
+export const HOME = 'Home';
+export const NEWHOT = 'New & Hot';
+export const SEARCH = 'Search';
+export const DOWLANDS = 'Downlands';
+export const MOVIEDETAIL = 'Movie Detail';

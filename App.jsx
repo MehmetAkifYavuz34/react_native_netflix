@@ -1,13 +1,17 @@
 import {NavigationContainer} from '@react-navigation/native';
 import React from 'react';
-import {View, Text, StyleSheet} from 'react-native';
+
 import RootNavigation from './src/router/rootNavigation';
+import {Provider} from 'react-redux';
+import store from './src/store';
 
 const App = () => {
   return (
-    <NavigationContainer>
-      <RootNavigation />
-    </NavigationContainer>
+    <Provider store={store}>
+      <NavigationContainer>
+        <RootNavigation />
+      </NavigationContainer>
+    </Provider>
   );
 };
 

@@ -1,7 +1,8 @@
 # React Native Netflix Clone
 
-![Project Banner](https://github.com/user-attachments/assets/81734dad-1ddc-426f-aae1-2fbec715d031)
 
 
 
 
+
+![bandicam2025-05-1320-36-47-179-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/56dbda77-60d8-4a81-9d32-f82a4b7f8269)
